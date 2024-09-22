@@ -1,0 +1,92 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono auto generated files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Files that might appear on external disk drives
+.Spotlight-V100
+.Trashes
+
+# Mac OS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# C# specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio specific
+.vscode/
+.vs/
+.vscode/settings.json
+
+# Rider specific
+.idea/
+*.sln.iml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure Functions
+local.settings.json
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+
+# LibMan
+libman.json
+
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+
+# Coverage Results
+*.coverage
+*.coveragexml
+_Reports/
+
+# Roslyn generated files
+*.generated.cs
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Entity Framework
+*.jfm
+
+# JetBrains Rider
+.idea/
+
+# CodeRush
+.cr/
+
+# ReSharper
+.ReSharper*/
